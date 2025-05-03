@@ -16,8 +16,9 @@ The model is trained and evaluated using a stratified split and performance is a
 
 ## 📂 Contents
 
-- **Jupyter Notebook** – Full code implementation including training, and evaluation  
-- **Project Report** – Detailed explanation of the methodology with screenshots and evaluation metrices  
+- **Jupyter Notebook** – Full code implementation including training, and evaluation
+ 🔗 [View on Google Drive](https://drive.google.com/file/d/1LPdtX2YICjVmQMiXR-XmkndT7wHs_o_3/view?usp=sharing) *(uploaded to Drive due to GitHub size limits)*
+- **Project Report** – Detailed explanation of the methodology with screenshots, model architecture, and evaluation metrics.
 ---
 
 ## ✨ Key Features
